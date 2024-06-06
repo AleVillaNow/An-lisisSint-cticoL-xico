@@ -1,0 +1,7 @@
+PROGRAM Ejemplo3;
+VAR
+END
+       edad : STRING:;
+BEGIN
+   edad :='33';
+END.

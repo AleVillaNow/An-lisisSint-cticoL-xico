@@ -1,0 +1,6 @@
+PROGRAM HelloWorld; 
+VAR
+  mensaje: STRING :;
+BEGIN
+END.
+
